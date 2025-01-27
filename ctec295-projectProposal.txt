@@ -1,0 +1,135 @@
+﻿For the majority of this course, you and a small group of your peers will be building a software project to solve some problem. What that problem is, however, is up to you. Create a document that describes a project you'd like to work on, covering the following details: 
+The Elevator Pitch - A one-paragraph description of the project that condenses it down to something easily understood It should be short enough but descriptive enough that you could describe it to someone in the amount of time it takes to ride an elevator with them completely understanding. 
+
+what you want to accomplish? create an application that pulls movie information from streaming services chosen by users. users create a list of movies they would like to watch and the app will compare users accounts to choose what movie people would like to watch together. 
+
+Why you are interested in this project? - I believe that many users could use an application like this to quickly & easily agree on movies to watch. 
+
+Why you believe you could complete this project in 8 weeks - I believe there will be APIs already created to pull movie data and will try to take advantage of libraries, python program snippets, and tutorials to try and complete a program to pull and compare data. 
+	
+Provide details. For example, write out a time table including all the problems you expect to face and how long it would take to solve each one. 
+
+What tools / experience you already have that would help you build this project? - previously worked with python, java, and javascript using hooks / API calls to pull data from websources. 
+
+What tools / knowledge you would need to learn / research to build this project? - refresh python knowledge, find projects, libraries, or additional information about projects like this that will help me pull and compare data. 
+
+the grading rubric follows: Elevator Pitch - Description is concise and provides all necessary details for the project = 4 pts; Interest - Student provided detailed information on why they are interested in this project = 4 pts; Time Scale - Student provided realistic reasoning on what it would take to complete the project on time = 4 pts; Current Knowledge - Student described in detail the tools and skills they are knowledgeable of, and how it would help them complete this project = 4 pts; The Unknown - Student described in detail the tools and skills they believe may be required for the project that they would need to learn to complete it = 4 pt. Please help come up with the elevator pitch and an timeline / outline for the project that would make the project easily accomplishable within 50-60 hours so that I can spend 10-20 hours for quality assurance testing and correcting any code to complete the project and have it work properly.
+
+Elevator Pitch
+Movie Matchmaker is an application designed to solve the perennial problem of deciding what movie to watch with friends or family. Users can create lists of movies they'd like to watch and link their streaming service accounts. The app then compares these lists and suggests movies that everyone is interested in, ensuring a smooth and enjoyable movie night without any arguments or indecision.
+
+Timeline / Outline
+Week 1: Project Setup and Initial Research (8 hours)
+- Setup development environment and tools.
+- Research available movie APIs (e.g., The Movie Database API, IMDb API, etc.).
+- Identify necessary libraries and frameworks (e.g., Flask/Django for backend, React/Angular for frontend).
+
+Week 2: API Integration and Data Handling (10 hours)
+- Create a basic structure for the backend.
+- Integrate movie APIs to pull movie data.
+- Implement data handling to store and manage user movie lists.
+
+Week 3: User Authentication and Account Linking (10 hours)
+- Implement user authentication (e.g., OAuth).
+- Allow users to link their streaming service accounts.
+- Ensure secure handling of user data.
+
+Week 4: Movie List Creation and Comparison Algorithm (10 hours)
+- Develop UI for users to create and manage their movie lists.
+- Implement the algorithm to compare movie lists and find common movies.
+
+Week 5: Frontend Development and UI Design (12 hours)
+- Design and implement the user interface.
+- Ensure a smooth and intuitive user experience.
+- Conduct initial user testing and gather feedback.
+
+Week 6: Final Integration and Testing (10 hours)
+- Integrate frontend with backend.
+- Conduct thorough testing of the entire application.
+- Fix any bugs and ensure smooth functionality.
+
+Week 7: Quality Assurance and User Feedback (10 hours)
+- Perform quality assurance testing.
+- Collect and incorporate user feedback.
+- Make final adjustments and improvements.
+
+Week 8: Documentation and Deployment (10 hours)
+- Write comprehensive documentation for the project.
+- Deploy the application to a cloud service (e.g., AWS, Heroku).
+- Ensure the app is accessible and functioning properly.
+
+Tools and Experience
+Current Knowledge: Experience with Python, Java, and JavaScript. Familiarity with API calls and data handling.
+
+New Skills to Learn: Refresh Python knowledge. Research similar projects and find relevant libraries. Enhance skills in frontend frameworks if needed.
+
+This timeline provides a structured approach to complete the project within 50-60 hours, leaving 10-20 hours for quality assurance and final adjustments.    ::
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Expanded Project Idea: Movie Matchmaker
+
+Elevator Pitch
+Movie Matchmaker is an innovative application that addresses the age-old dilemma of choosing a movie to watch with friends or family. Users can create personalized lists of movies they'd like to watch and link their streaming service accounts. The app intelligently compares these lists and suggests movies that everyone is interested in, ensuring a seamless and enjoyable movie night without the hassle of disagreements or indecision.
+
+What You Want to Accomplish
+The primary goal is to create a user-friendly application that aggregates movie information from various streaming services chosen by users. By creating individual movie watchlists and linking streaming accounts, the app can effectively compare these lists to recommend movies that align with the preferences of all users involved. The app aims to simplify the decision-making process, enhancing the movie-watching experience for groups.
+
+Why You Are Interested in This Project
+Many users face the challenge of agreeing on a movie to watch, especially in group settings. This project piques your interest because it addresses a common problem with a practical and enjoyable solution. The application has the potential to become a valuable tool for anyone who enjoys watching movies with friends or family, fostering a more collaborative and enjoyable viewing experience.
+
+Feasibility in 8 Weeks
+This project is feasible within an 8-week timeline due to the availability of APIs that provide movie data. By leveraging existing libraries, Python code snippets, and tutorials, the development process can be expedited. A well-structured timeline, detailed below, outlines the steps needed to complete the project, highlighting anticipated challenges and their solutions.
+
+Timeline and Challenges
+Week 1: Project Planning and Research
+	- Define project scope and requirements
+	- Research available movie APIs and streaming services
+	- Identify necessary libraries and tools
+
+Week 2: Setting Up the Development Environment
+	- Set up version control (e.g., Git)
+	- Configure the development environment (e.g., IDE, dependencies)
+	- Create initial project structure
+
+Week 3: Backend Development
+	- Integrate with movie APIs to fetch movie data
+	- Develop user authentication and account linking
+	- Implement database to store user data and movie lists
+
+Week 4: Frontend Development
+	- Design user interface (UI) and user experience (UX)
+	- Create wireframes and mockups
+	- Develop main UI components (e.g., movie list creation, account linking)
+
+Week 5: Core Functionality Implementation
+	- Implement movie list comparison algorithm
+	- Develop recommendation engine
+	- Integrate frontend and backend components
+
+Week 6: Testing and Debugging
+	- Conduct unit testing for individual components
+	- Perform integration testing to ensure smooth interaction
+	- Fix bugs and optimize performance
+
+Week 7: User Feedback and Iteration
+	- Gather feedback from peers and potential users
+	- Make necessary improvements and adjustments
+	- Enhance UI/UX based on feedback
+
+Week 8: Finalization and Deployment
+	- Conduct final testing and quality assurance
+	- Prepare documentation (user guide, developer guide)
+	- Deploy the application to a hosting platform (e.g., Heroku, AWS)
+
+Tools and Experience
+Experience: Familiarity with Python, Java, JavaScript, and using API calls to pull data from web sources.
+
+Tools: Python libraries (e.g., requests, Flask), JavaScript frameworks (e.g., React, Vue.js), version control (Git), project management tools (e.g., Trello).
+
+Required Learning and Research
+Refresh Python Knowledge: Review syntax, libraries, and best practices.
+
+Research APIs and Libraries: Find suitable movie APIs and explore relevant libraries or projects.
+
+Explore Similar Projects: Learn from existing projects to understand data pulling and comparison techniques.
